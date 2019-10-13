@@ -1,5 +1,6 @@
 # wesbitesearch
-Website search bash script for SEO comparisons / OSINT. Ignores robots.txt, goes slowly so has the side effect of making some analytics software like Google Analytics think this is organic traffic.
+## Website search bash script for SEO comparisons / OSINT. 
+Ignores robots.txt, goes slowly so has the side effect of making some analytics software like Google Analytics think this is organic traffic.
 
 ## Current version 1.6
 
