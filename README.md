@@ -1,8 +1,7 @@
 # wesbitesearch
-Website searcher for SEO comparisons / OSINT
+Website search bash script for SEO comparisons / OSINT. Ignores robots.txt, goes slowly so has the side effect of making some analytics software like Google Analytics think this is organic traffic.
 
 ## Current version 1.6
-------------
 
 ### Usage:
 ./websitesearch.sh url depth searchquery urllist
@@ -32,3 +31,5 @@ Website searcher for SEO comparisons / OSINT
 
 ### If i can be bothered:
 * Move scraping function to python script and allow multithreading to improve speed
+
+-------------------------------------------
